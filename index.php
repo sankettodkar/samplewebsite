@@ -1,0 +1,1 @@
+<h2>sample website testing on cpanel with core php</h2>
